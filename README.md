@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**seekingperfection/seekingperfection** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 Here are some ideas to get you started:
 

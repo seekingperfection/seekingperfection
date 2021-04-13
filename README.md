@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![src](https://media.giphy.com/media/3o6ZtluYTKJeXXqt8s/source.gif)
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

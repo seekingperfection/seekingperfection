@@ -1,6 +1,6 @@
-### Hi there 👋
-
 ![src](https://media.giphy.com/media/3o6ZtluYTKJeXXqt8s/source.gif)
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 

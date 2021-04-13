@@ -5,4 +5,4 @@
 - 🔭 I’m currently working on my todo app, got to test and add some new features, like search box, filter etc., recently I've started working on application which should generate cv as pdf. 
 - 🌱 I’m currently learning vanilla.js, react.js, vue.js, node.js.
 - 💬 Ask me about anything for sure <3.
-- 📫 How to reach me: [LinkedIN] (https://www.linkedin.com/in/tautvydas-rakauskas-94711a189/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tautvydas-rakauskas-94711a189/)
